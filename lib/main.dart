@@ -55,7 +55,7 @@ class _MyHomePageState extends State<MyHomePage> {
                ),
                Padding(
                  padding: const EdgeInsets.only(left:20.0),
-                 child: Text('San Francisco, CA',
+                 child: Text('Warri, Delta State',
                  style: TextStyle(
                    fontFamily: 'Montserrat',
                    color: Colors.grey,
