@@ -2,5 +2,5 @@
  
 ## SCREENSHOT
 
-<img src="assests/prof.png">
-<img src="assests/prof.png">
+<img src="assets/prof.png">
+<img src="assets/prof.png">
